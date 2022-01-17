@@ -16,6 +16,7 @@ namespace Övning4._2
     {
         public Form1()
         {
+            //
             InitializeComponent();
         }
 
